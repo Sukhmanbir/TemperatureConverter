@@ -1,0 +1,9 @@
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.tempConverter.resources
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.Properties.Resources.resources
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.GenerateResource.Cache
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
